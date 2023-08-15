@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/testemaluco/static/css/main.e6c13ad2.css",
-    "main.js": "/testemaluco/static/js/main.a894acd8.js",
+    "main.css": "/testemaluco/static/css/main.073c9b0a.css",
+    "main.js": "/testemaluco/static/js/main.036cab31.js",
     "static/js/787.3fd4cc1a.chunk.js": "/testemaluco/static/js/787.3fd4cc1a.chunk.js",
     "service-worker.js": "/testemaluco/service-worker.js",
     "index.html": "/testemaluco/index.html",
-    "main.e6c13ad2.css.map": "/testemaluco/static/css/main.e6c13ad2.css.map",
-    "main.a894acd8.js.map": "/testemaluco/static/js/main.a894acd8.js.map",
+    "main.073c9b0a.css.map": "/testemaluco/static/css/main.073c9b0a.css.map",
+    "main.036cab31.js.map": "/testemaluco/static/js/main.036cab31.js.map",
     "787.3fd4cc1a.chunk.js.map": "/testemaluco/static/js/787.3fd4cc1a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.a894acd8.js"
+    "static/css/main.073c9b0a.css",
+    "static/js/main.036cab31.js"
   ]
 }
